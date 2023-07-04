@@ -11,3 +11,5 @@
 　　filename:檔案名稱，為團隊成員上傳資料所給定之流水號。
 　　size:照片原始資訊 (長、寬與影像深度)。
 　　object:標註類別、位置與相關資訊，其中bndbox所呈現的資訊為影像標註的物件位置
+
+https://aidata.nchu.edu.tw/smarter/dataset/smarter_04_t14088_0_tead_20220826_img1_t14088
